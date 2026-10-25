@@ -76,7 +76,7 @@ public class CustomerTest {
 	            System.out.println(customer);
 	        }
 	    }
-		// TODO Auto-generated method stub
+		
 
 	}
 
