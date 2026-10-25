@@ -6,7 +6,6 @@ import java.util.Iterator;
 public class CustomerOperations {
 	 private HashSet<Customer> customers;
 
-	    // Initialize the collection with five customers
 	    public CustomerOperations() {
 	        customers = new HashSet<>();
 
