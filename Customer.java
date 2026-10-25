@@ -62,7 +62,7 @@ public class Customer {
 	                && gender == other.gender;
 	    }
 
-	    // Generate hash code consistently with equals()
+
 	    @Override
 	    public int hashCode() {
 	        return Objects.hash(id, firstName, lastName, gender);
